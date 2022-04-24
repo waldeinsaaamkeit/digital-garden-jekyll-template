@@ -1,3 +1,0 @@
----
-title: Procesul - Franz Kafka
----
