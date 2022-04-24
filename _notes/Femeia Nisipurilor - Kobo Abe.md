@@ -14,6 +14,4 @@ Pentru mine, această carte este o metaforă tristă a înăbușirii aspirațiil
 # Quotes 
 > Înfrângerea începe atunci când răbdarea este socotită înfrângere. 
 
-# Learn
-- [[Oul lui Columb]]
-- [[Banda Mobius]]
+
