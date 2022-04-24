@@ -5,16 +5,29 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
-
+<div class="grid-element">
+      <h2>Blog posts</h2>
+      {% assign post_limit = 7 %}
+      {% for post in site.posts limit: post_limit %}
+      <div class="list-entry">
+        <div><a class="internal-link" href="{{ post.url }}">{{ post.title }}</a> <span class="faded">({{ post.date | date: "%Y-%m-%d" }})</span></div>
+        <div>{{ post.excerpt }}</div>
+      </div>
+      {% endfor %}
+      <p>
+        <a class="internal-link" href="/blog">I wrote {{ site.posts.size | post_limit }} more posts</a>.
+      </p>
+    </div>
+<div class="grid-element">
+      <h2>Digital Garden</h2>
+- [[Cărți]]
+- [[Filme]]
+- [[Writing]]
+- [[Fotografie]]
+    </div>
 <style>
   .wrapper {
     max-width: 46em;

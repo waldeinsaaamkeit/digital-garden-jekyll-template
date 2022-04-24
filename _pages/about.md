@@ -4,6 +4,6 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
-
-Feel free to tell the world about what you love! 😍
+nimic nu se leagă în mine și
+oricît m-aș strădui nimic
+nu mă leagă cu adevărat de voi
