@@ -1,4 +1,6 @@
 ---
 title: Start here
 ---
-De aici o să se înceapă digital garden-ul.
+Oh, bună! 🌱 
+
+Aceasta este grădina mea digitală, o colecție de gânduri și idei. 
