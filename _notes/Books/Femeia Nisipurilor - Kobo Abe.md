@@ -1,6 +1,8 @@
 ---
 title: Femeia Nisipurilor - Kobo Abe
 ---
+links: [[📚Books]]
+# Summary
 Niki Jumpa, profesor și entomolog, pleacă fără să anunțe pe nimeni în căutarea unei noi specii de insecte. Fiindcă nu plănuiește să stea mai mult de câteva zile, pleacă fără să anunțe pe nimeni. Din acest moment, Niki dispare pentru totdeauna(conform legii, după 7 ani de dispariție, un om este declarat mort).
 Explorând o zonă deșertică, este momit de un sat poziționat între dune - o capcană fascninantă: nisipuri mișcătoare, soare arzător și nisipul care se întinde cât cuprinde ochiul. Jumpa devine captiv într-o văgăună de nisip pe fundul căreia, într-o colibă, locuia o femeie - un personaj  care își acceptă existența obscură fără să se împotrivească. 
 Rolul lui aici, dar și al celorlalți săteni este reprezentată de o luptă cu pumnii în aer: trebuie să împiedice nisipul să distrugă colibele.
