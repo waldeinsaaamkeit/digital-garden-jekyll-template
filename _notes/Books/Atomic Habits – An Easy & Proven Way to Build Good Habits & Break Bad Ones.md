@@ -10,7 +10,7 @@ links: [[📚Books]]
   * Universe/Series: ADD SERIES
   * Author: [[James Clear]]
   * Year published: [[2018]]
-  * Related: https://jamesclear.com/atomic-habits/resources
+  * Related: https://jamesclear.com/atomic-habits/resources , https://pt.slideshare.net/DeepakJois3/atomic-habits-book-notes , https://youtu.be/PZ7lDrwYdZc
 - Highlights
 	- ELEMENTE FUNDAMENTALE: De ce micile schimbări creează mari diferențe
 	  collapsed:: true
